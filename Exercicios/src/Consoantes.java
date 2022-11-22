@@ -16,7 +16,7 @@ public class Consoantes {
                     letraDigitada.equalsIgnoreCase("e") |
                     letraDigitada.equalsIgnoreCase("i") |
                     letraDigitada.equalsIgnoreCase("o") |
-                    letraDigitada.equalsIgnoreCase("u")) )a
+                    letraDigitada.equalsIgnoreCase("u")) )
                  {
                 consoantes[count] = letraDigitada;
                 quantidadeConsoantes++;
